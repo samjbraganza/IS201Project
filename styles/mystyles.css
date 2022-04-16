@@ -1,0 +1,157 @@
+
+.nbgc {
+    background-color:black ;
+    }
+
+
+
+.homebg { 
+    background-image: url('../assets/images/rock\ band.jpg');
+
+}
+
+.foot {
+    background-color: rgba(255, 255, 255, .05);
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    float: left;
+
+}
+
+.np {
+    padding: 170px;
+}
+
+.pt {
+    background-color: black;
+    text-decoration: rgba(255, 255, 255, .05);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.titletext {
+        background-color: rgba(255, 255, 255, .05);
+        color: white;
+        font-style: bold;
+        text-align: center;
+}
+        
+
+.footer2{
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+}
+
+
+.navbarcolor{
+ 
+    color: black;
+}
+
+.box{
+    background-size: contain;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: rgb(255, 255, 255);
+    width: 900px;
+    text-align: center;
+    left: 300px;
+    display: block;
+    align-content: center!important;
+    left: 550px;
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    text-shadow: 50px;
+
+    
+}
+
+
+.buttonedit{
+    background-size: contain;
+    left: 950px;
+    bottom: 150px;
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    width: 10%;
+    padding-right: var(--bs-gutter-x, 0.25rem);
+    padding-left: var(--bs-gutter-x, 0.25rem);
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    border-style: hidden;
+    text-align: center;
+    color: white;
+}
+
+.icon{
+    margin-left: 39%;
+    margin-right: 5%;
+    margin-bottom: 15%;
+    width: 15%;
+    max-width: 75px;
+    /* background-color: rgba(255, 255, 255, 0.6); */
+
+}
+
+.icon2{
+    margin-left: 0.0000000000000000000000000000000000000000000000000000000000000000000000000000001%;
+    margin-right: 5%;
+    margin-bottom: 15%;
+    width: 15%;
+    max-width: 75px;
+    /* background-color: rgba(255, 255, 255, 0.6); */
+
+}
+.icon3{
+    margin-left: 0.00000000000000000000000000000000000000000000000000000000000000000000000001%;
+    margin-right: 5%;
+    margin-bottom: 15%;
+    width: 15%;
+    max-width: 75px;
+    /* background-color: rgba(255, 255, 255, 0.6); */
+
+}
+
+.introtextbox{
+    margin: auto;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+  }
+  
+
+  .utpic{
+      width: 1200px;
+      height: 500px;
+
+  }
+
+  .bold {
+      font-size: large;
+      font-weight: bold;
+     
+  }
+
+  li {
+      font-weight: normal;
+      
+  }
+
+   
+
